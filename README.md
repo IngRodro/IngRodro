@@ -38,7 +38,5 @@ let Rodrigo = {
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngRodro&langs_count=10&theme=tokyonight&layout=compact" alt="IngRodro :: Top Langs" /></p>
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IngRodro&show_icons=true&hide_border=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IngRodro&show_icons=true&hide_border=true&theme=dark)
 ---
