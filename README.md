@@ -16,7 +16,7 @@
 ```javascript
 
 let Rodrigo = {
-  pronouns = ['He', 'Him'].
+  pronouns = ['He', 'Him'],
   languages = [ 'C#', 'Java', 'Javascript', 'Typescript', 'Kotlin'],
   hobbies = ['Coding', 'Gaming'],
   love = 'Maria'
