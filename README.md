@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Ramirez</h1>
 <h3 align="center">A passionate Computer and systems engineering student from El Salvador</h3>
 
+![Profile views](https://gpvc.arturio.dev/IngRodro)  <img src="https://img.shields.io/github/followers/IngRodro?label=Follow" style=" float:left, margin-right:10px" />
+
 - 🔭 I’m currently working on [API-Node-TypeScript](https://github.com/IngRodro/API-Node-TypeScript)
 
 - 🌱 I’m currently learning **React**
