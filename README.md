@@ -15,7 +15,7 @@
 
 ```javascript
 
-let Rodrigo {
+let Rodrigo = {
   pronouns = ['He', 'Him'].
   languages = [ 'C#', 'Java', 'Javascript', 'Typescript', 'Kotlin'],
   hobbies = ['Coding', 'Gaming'],
