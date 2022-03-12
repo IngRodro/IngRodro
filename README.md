@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Rodrigo Ramirez</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Ramirez</h1>
 <h3 align="center">A passionate Computer and systems engineering student from El Salvador</h3>
 
 - 🔭 I’m currently working on [API-Node-TypeScript](https://github.com/IngRodro/API-Node-TypeScript)
