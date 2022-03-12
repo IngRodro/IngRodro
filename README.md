@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Ramirez</h1>
 <h3 align="center">A passionate Computer and systems engineering student from El Salvador</h3>
 
-![Profile views](https://gpvc.arturio.dev/IngRodro)  <img src="https://img.shields.io/github/followers/IngRodro?label=Follow" style=" float:left, margin-right:10px" />
+[![Twitter: IngRodro](https://img.shields.io/twitter/follow/IngRodro?style=social)](https://twitter.com/IngRodro)
+[![GitHub IngRodro](https://img.shields.io/github/followers/IngRodro?label=follow&style=social)](https://github.com/IngRodro)
 
 - 🔭 I’m currently working on [API-Node-TypeScript](https://github.com/IngRodro/API-Node-TypeScript)
 
