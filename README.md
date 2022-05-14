@@ -4,7 +4,7 @@
 [![Twitter: IngRodro](https://img.shields.io/twitter/follow/IngRodro?style=social)](https://twitter.com/IngRodro)
 [![GitHub IngRodro](https://img.shields.io/github/followers/IngRodro?label=follow&style=social)](https://github.com/IngRodro)
 
-- 🔭 I’m currently working on [API-Node-TypeScript](https://github.com/IngRodro/API-Node-TypeScript)
+- 🔭 I’m currently working on [Proyecto-TPIS](https://github.com/IngRodro/Proyecto-TPIS)
 
 - 🌱 I’m currently learning **React**
 
