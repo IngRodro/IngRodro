@@ -19,15 +19,11 @@ let Rodrigo = {
   pronouns = ['He', 'Him'],
   languages = [ 'C#', 'Java', 'Javascript', 'Typescript', 'Kotlin'],
   hobbies = ['Coding', 'Gaming'],
-  myLove = 'Maria'
-  bf = 'Laura'
 }
 
   console.log(`Pronouns: ${Rodrigo.pronouns}`);
   console.log(`Languages I Know: ${Rodrigo.pronouns}`);
   console.log(`My Hobbies: ${Rodrigo.hobbies}`;
-  console.log(`My love is: ${Rodrigo.myLove}`);
-  console.log(`My best friend is: ${Rodrigo.bf}`)
 }
 ```
 
